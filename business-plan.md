@@ -55,7 +55,7 @@ The Primal Tavern is a catering startup based in Ghent, Belgium, focusing on hea
 
 **7. Financial Plan**
 
-- **Initial Budget:** €2,000 reserve.
+- **Initial Budget:** €1,000 reserve.
 - **Day-to-Day Financial Strategy:**
   - Funds are only used when orders meet predefined volume criteria.
   - No upfront costs beyond essential ingredients and minimal equipment.
